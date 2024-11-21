@@ -16,6 +16,10 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
+            colors: {
+                customPink: '#d64c7f',
+                customRed: '#ee4758',
+            },
         },
     },
     plugins: [
